@@ -1,0 +1,3 @@
+.venv/
+data/big.csv
+*.lock
